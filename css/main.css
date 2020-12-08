@@ -6,10 +6,16 @@
 
 body {
 	font-family: 16px;
+	font-family: 'Arial', 'helvetica', sans-serif;
 	background-color: black;
 	color: white;
 }
 
 .hidden {
 	display: none;
+}
+
+.data-img {
+	width: 40%;
+	max-width: 100%;
 }
