@@ -1,0 +1,95 @@
+.hidden {
+	display: none;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+body {
+	font-family: 16px;
+	font-family: 'Arial', 'helvetica', sans-serif;
+	background-color: black;
+	color: white;
+}
+
+.data-img {
+	width: 360px;
+	height: 360px;
+}
+
+#title {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 80px;
+}
+
+.textBox {
+	background-color: teal;
+	color: #fff;
+	/*width: 200px;*/
+	margin: 10px;
+	width: 680px;
+	text-align: left;
+	padding: 20px;
+	border-radius: 15px;
+	margin-bottom: 100px;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+/*SECTION 1 STARTS*/
+
+#point1Title {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;	
+	margin-top: 60px;
+	margin: 20px;
+}
+
+.point1 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+/*SECTION 2 STARTS*/
+
+#point2Title {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;	
+	margin-top: 60px;
+	margin: 20px;
+}
+
+.point2 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+/*SECTION 3 STARTS*/
+
+#point3Title {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;	
+	margin-top: 60px;
+	margin: 20px;
+}
+
+.point3 {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
