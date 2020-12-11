@@ -1,10 +1,15 @@
 # Olympic Data Visualization Project
 
-## All about Canada and the Winter Olympics
+These are charts that visually represent the various results of countries in the Olympics.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The comparison between pairs of countries in the Olympics
+
+These are pie-shaped graph charts comparing the number of medals won by two pairs of countries at the Winter Olympics. The comparison is performed in various ways of counting the medals. All six charts have a different comparison and that is to find out which areas they did better or worse than the others.
+
+## Built with
+
+The charts are built with
+[Python 3](https://www.python.org/downloads/)
+
+## License
+MIT
